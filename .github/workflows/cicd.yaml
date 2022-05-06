@@ -16,3 +16,4 @@ jobs:
           from_branch: release
           target_branch: main
           github_token: ${{ secrets.TOKEN }}
+          commit_message_template: '[Automated] Merged release into target main'
