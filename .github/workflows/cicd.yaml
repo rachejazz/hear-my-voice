@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - "hotfix"
+      - "release/*"
 jobs:
   merge-branch:
     runs-on: ubuntu-latest
