@@ -1,1 +1,1 @@
-This is a test project deployed by curl
+This is a test project deployed by python
