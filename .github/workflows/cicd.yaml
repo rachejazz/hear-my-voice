@@ -14,3 +14,8 @@ jobs:
           target_branch: main
           github_token: ${{ secrets.TOKEN }}
           message: '[Automated] Merged release into target main'
+          
+      - name: delete branch
+        uses: SvanBoxel/delete-merged-branch@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
