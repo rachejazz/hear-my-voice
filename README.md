@@ -1,3 +1,1 @@
-test project. Will it work?
-IT IS WOKRING!!!!
-checking manual trigger
+This is a test project deployed by me
