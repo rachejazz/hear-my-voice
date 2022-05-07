@@ -1,1 +1,1 @@
-This is a test project deployed by me
+This is a test project deployed by curl
