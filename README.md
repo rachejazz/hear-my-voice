@@ -1,6 +1,6 @@
 # Hear My Voice
 > a test site deployed by my voice assistant
-> Live demo time!
+
 
 - Say "start" to deploy new changes from release to main branch
 - Say "delete" to delete release branch
