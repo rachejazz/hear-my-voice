@@ -1,5 +1,5 @@
 # Hear My Voice
-> a test site deployed by my voice assistant
+> a test site deployed by alexa
 
 
 - Say "start" to deploy new changes from release to main branch
