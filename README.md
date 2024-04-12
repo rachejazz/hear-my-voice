@@ -1,4 +1,5 @@
 # Hear My Voice
+AWS Lambda script that can trigger CICD pipeline using AWS Alexa
 > a test site deployed by alexa
 
 
